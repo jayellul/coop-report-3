@@ -1,0 +1,31 @@
+body {
+  background-image: url('img/email-pattern.png');
+  background-repeat: repeat;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.container {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: white;
+}
+
+.divider {
+
+}
+
+h1 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700;
+}
+
+h2 {
+  font-family: 'Quicksand', sans-serif;
+  text-decoration: underline;
+}
+
+p {
+  font-family: 'Quicksand', sans-serif;
+}
+
