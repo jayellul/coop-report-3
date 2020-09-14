@@ -29,6 +29,11 @@ h2 {
   color: #0ACDFF;
 }
 
+h3 {
+  font-family: 'Quicksand', sans-serif;
+  color: #E9FF70;
+}
+
 p {
   font-family: 'Quicksand', sans-serif;
   font-size: 1.35rem;
@@ -36,5 +41,21 @@ p {
 
 a {
   color: #82FF9E;
+  text-decoration: underline;
+}
 
+
+figure {
+  width: 50%;
+  margin: 3rem auto !important;
+}
+
+img {
+  max-width: 100%;
+}
+
+figcaption {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.15rem;
+  color: #82FF9E;
 }
