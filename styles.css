@@ -1,5 +1,6 @@
 body {
-  background-image: url('img/email-pattern.png');
+  background: black;
+  background-image: url('img/darkness.png');
   background-repeat: repeat;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -8,24 +9,32 @@ body {
 .container {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: white;
+  /* background: #252525;
+  background: linear-gradient(#2a2a29, #1c1c1c); */
+  color: #f7f7fb;
 }
 
-.divider {
-
+hr {
+  border-top: 1px solid #FF70A6 !important;
 }
 
 h1 {
   font-family: 'Quicksand', sans-serif;
   font-weight: 700;
+  color: #FF9770;
 }
 
 h2 {
   font-family: 'Quicksand', sans-serif;
-  text-decoration: underline;
+  color: #0ACDFF;
 }
 
 p {
   font-family: 'Quicksand', sans-serif;
+  font-size: 1.35rem;
 }
 
+a {
+  color: #82FF9E;
+
+}
